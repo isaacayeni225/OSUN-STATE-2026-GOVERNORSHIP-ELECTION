@@ -1,6 +1,8 @@
 # OSUN-STATE-2026-GOVERNORSHIP-ELECTION
 Overview of the Osun State 2026 Governorship Election Dashboard. This is a Power BI-style election dashboard summarizing the just-concluded Osun State 2026 governorship election. It presents aggregate results, party performance, and a detailed breakdown of votes by local government area (LGA).
 
+![image alt](https://github.com/isaacayeni225/OSUN-STATE-2026-GOVERNORSHIP-ELECTION/blob/a124a0ff5963a53b727d58e874dc78dd7babd031/OSUN%20STATE.png)
+
 ## Key headline figures:
 - Total votes: 973,000
 - Average votes per LGA: 32,000
